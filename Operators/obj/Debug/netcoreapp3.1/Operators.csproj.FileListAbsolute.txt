@@ -10,3 +10,4 @@ A:\cSharpCourse\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
 A:\cSharpCourse\Operators\obj\Debug\netcoreapp3.1\Operators.dll
 A:\cSharpCourse\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
 A:\cSharpCourse\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
+A:\cSharpCourse\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
