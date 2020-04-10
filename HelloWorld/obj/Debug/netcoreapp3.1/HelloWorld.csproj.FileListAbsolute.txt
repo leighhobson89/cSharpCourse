@@ -1,0 +1,12 @@
+A:\cSharpCourse\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+A:\cSharpCourse\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+A:\cSharpCourse\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+A:\cSharpCourse\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+A:\cSharpCourse\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+A:\cSharpCourse\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+A:\cSharpCourse\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+A:\cSharpCourse\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+A:\cSharpCourse\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+A:\cSharpCourse\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+A:\cSharpCourse\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
