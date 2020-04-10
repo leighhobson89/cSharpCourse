@@ -1,0 +1,13 @@
+A:\cSharpCourse\VariablesAndConstants\bin\Debug\netcoreapp3.1\VariablesAndConstants.exe
+A:\cSharpCourse\VariablesAndConstants\bin\Debug\netcoreapp3.1\VariablesAndConstants.deps.json
+A:\cSharpCourse\VariablesAndConstants\bin\Debug\netcoreapp3.1\VariablesAndConstants.runtimeconfig.json
+A:\cSharpCourse\VariablesAndConstants\bin\Debug\netcoreapp3.1\VariablesAndConstants.runtimeconfig.dev.json
+A:\cSharpCourse\VariablesAndConstants\bin\Debug\netcoreapp3.1\VariablesAndConstants.dll
+A:\cSharpCourse\VariablesAndConstants\bin\Debug\netcoreapp3.1\VariablesAndConstants.pdb
+A:\cSharpCourse\VariablesAndConstants\obj\Debug\netcoreapp3.1\VariablesAndConstants.csprojAssemblyReference.cache
+A:\cSharpCourse\VariablesAndConstants\obj\Debug\netcoreapp3.1\VariablesAndConstants.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\VariablesAndConstants\obj\Debug\netcoreapp3.1\VariablesAndConstants.AssemblyInfoInputs.cache
+A:\cSharpCourse\VariablesAndConstants\obj\Debug\netcoreapp3.1\VariablesAndConstants.AssemblyInfo.cs
+A:\cSharpCourse\VariablesAndConstants\obj\Debug\netcoreapp3.1\VariablesAndConstants.dll
+A:\cSharpCourse\VariablesAndConstants\obj\Debug\netcoreapp3.1\VariablesAndConstants.pdb
+A:\cSharpCourse\VariablesAndConstants\obj\Debug\netcoreapp3.1\VariablesAndConstants.genruntimeconfig.cache
