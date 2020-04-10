@@ -1,0 +1,13 @@
+A:\cSharpCourse\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+A:\cSharpCourse\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+A:\cSharpCourse\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+A:\cSharpCourse\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+A:\cSharpCourse\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+A:\cSharpCourse\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+A:\cSharpCourse\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+A:\cSharpCourse\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+A:\cSharpCourse\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+A:\cSharpCourse\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+A:\cSharpCourse\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+A:\cSharpCourse\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
