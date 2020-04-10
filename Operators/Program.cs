@@ -9,24 +9,24 @@ namespace Operators
             var a = 10; //define two variables with '=' operator and use '+' to add them
             var b = 3;
 
-            Console.WriteLine(a + b);
+            Console.WriteLine(a + b); //13
 
             var c = 10; //define two variables with '=' operator and use '/' to divide them (use float casting to get more precise decimal result otherwise integer is written)
             var d = 3;
 
-            Console.WriteLine((float)c / (float)d);
+            Console.WriteLine((float)c / (float)d); //3.333333
 
-            var e = 1; //operator precedence (BODMAS - Division and Multiplication have higher precedence than Addition and Subtraction, result = 7)
+            var e = 1; //operator precedence (BODMAS - Division and Multiplication have higher precedence than Addition and Subtraction)
             var f = 2;
             var g = 3;
 
-            Console.WriteLine(e + f * g);
+            Console.WriteLine(e + f * g); //7
 
-            var h = 1; //operator precedence (Parentheses give higher precedence to values inside them, result = 9)
+            var h = 1; //operator precedence (Parentheses give higher precedence to values inside them)
             var i = 2;
             var j = 3;
 
-            Console.WriteLine((h + i) * j);
+            Console.WriteLine((h + i) * j); //9
 
             var k = 1; //comparison operators return boolean values
             var l = 2;
