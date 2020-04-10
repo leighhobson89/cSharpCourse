@@ -1,0 +1,12 @@
+A:\cSharpCourse\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+A:\cSharpCourse\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+A:\cSharpCourse\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+A:\cSharpCourse\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+A:\cSharpCourse\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+A:\cSharpCourse\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+A:\cSharpCourse\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+A:\cSharpCourse\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+A:\cSharpCourse\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+A:\cSharpCourse\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+A:\cSharpCourse\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
