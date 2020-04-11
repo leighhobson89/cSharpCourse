@@ -1,0 +1,13 @@
+A:\cSharpCourse\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+A:\cSharpCourse\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+A:\cSharpCourse\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+A:\cSharpCourse\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+A:\cSharpCourse\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+A:\cSharpCourse\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+A:\cSharpCourse\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csprojAssemblyReference.cache
+A:\cSharpCourse\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+A:\cSharpCourse\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+A:\cSharpCourse\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+A:\cSharpCourse\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+A:\cSharpCourse\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache
