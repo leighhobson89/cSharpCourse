@@ -1,0 +1,13 @@
+A:\cSharpCourse\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.exe
+A:\cSharpCourse\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.deps.json
+A:\cSharpCourse\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.runtimeconfig.json
+A:\cSharpCourse\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.runtimeconfig.dev.json
+A:\cSharpCourse\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.dll
+A:\cSharpCourse\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.pdb
+A:\cSharpCourse\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.csprojAssemblyReference.cache
+A:\cSharpCourse\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.AssemblyInfoInputs.cache
+A:\cSharpCourse\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.AssemblyInfo.cs
+A:\cSharpCourse\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.dll
+A:\cSharpCourse\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.pdb
+A:\cSharpCourse\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.genruntimeconfig.cache
