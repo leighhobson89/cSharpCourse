@@ -1,0 +1,13 @@
+A:\cSharpCourse\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+A:\cSharpCourse\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+A:\cSharpCourse\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+A:\cSharpCourse\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+A:\cSharpCourse\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+A:\cSharpCourse\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+A:\cSharpCourse\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+A:\cSharpCourse\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+A:\cSharpCourse\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+A:\cSharpCourse\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+A:\cSharpCourse\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+A:\cSharpCourse\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
