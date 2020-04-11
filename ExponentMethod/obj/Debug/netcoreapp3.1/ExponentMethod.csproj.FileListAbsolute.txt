@@ -1,0 +1,13 @@
+A:\cSharpCourse\ExponentMethod\bin\Debug\netcoreapp3.1\ExponentMethod.exe
+A:\cSharpCourse\ExponentMethod\bin\Debug\netcoreapp3.1\ExponentMethod.deps.json
+A:\cSharpCourse\ExponentMethod\bin\Debug\netcoreapp3.1\ExponentMethod.runtimeconfig.json
+A:\cSharpCourse\ExponentMethod\bin\Debug\netcoreapp3.1\ExponentMethod.runtimeconfig.dev.json
+A:\cSharpCourse\ExponentMethod\bin\Debug\netcoreapp3.1\ExponentMethod.dll
+A:\cSharpCourse\ExponentMethod\bin\Debug\netcoreapp3.1\ExponentMethod.pdb
+A:\cSharpCourse\ExponentMethod\obj\Debug\netcoreapp3.1\ExponentMethod.csprojAssemblyReference.cache
+A:\cSharpCourse\ExponentMethod\obj\Debug\netcoreapp3.1\ExponentMethod.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\ExponentMethod\obj\Debug\netcoreapp3.1\ExponentMethod.AssemblyInfoInputs.cache
+A:\cSharpCourse\ExponentMethod\obj\Debug\netcoreapp3.1\ExponentMethod.AssemblyInfo.cs
+A:\cSharpCourse\ExponentMethod\obj\Debug\netcoreapp3.1\ExponentMethod.dll
+A:\cSharpCourse\ExponentMethod\obj\Debug\netcoreapp3.1\ExponentMethod.pdb
+A:\cSharpCourse\ExponentMethod\obj\Debug\netcoreapp3.1\ExponentMethod.genruntimeconfig.cache

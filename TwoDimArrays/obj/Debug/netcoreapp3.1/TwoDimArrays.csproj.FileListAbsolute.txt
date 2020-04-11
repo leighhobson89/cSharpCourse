@@ -1,0 +1,13 @@
+A:\cSharpCourse\TwoDimArrays\obj\Debug\netcoreapp3.1\TwoDimArrays.csprojAssemblyReference.cache
+A:\cSharpCourse\TwoDimArrays\obj\Debug\netcoreapp3.1\TwoDimArrays.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\TwoDimArrays\obj\Debug\netcoreapp3.1\TwoDimArrays.AssemblyInfoInputs.cache
+A:\cSharpCourse\TwoDimArrays\obj\Debug\netcoreapp3.1\TwoDimArrays.AssemblyInfo.cs
+A:\cSharpCourse\TwoDimArrays\bin\Debug\netcoreapp3.1\TwoDimArrays.exe
+A:\cSharpCourse\TwoDimArrays\bin\Debug\netcoreapp3.1\TwoDimArrays.deps.json
+A:\cSharpCourse\TwoDimArrays\bin\Debug\netcoreapp3.1\TwoDimArrays.runtimeconfig.json
+A:\cSharpCourse\TwoDimArrays\bin\Debug\netcoreapp3.1\TwoDimArrays.runtimeconfig.dev.json
+A:\cSharpCourse\TwoDimArrays\bin\Debug\netcoreapp3.1\TwoDimArrays.dll
+A:\cSharpCourse\TwoDimArrays\bin\Debug\netcoreapp3.1\TwoDimArrays.pdb
+A:\cSharpCourse\TwoDimArrays\obj\Debug\netcoreapp3.1\TwoDimArrays.dll
+A:\cSharpCourse\TwoDimArrays\obj\Debug\netcoreapp3.1\TwoDimArrays.pdb
+A:\cSharpCourse\TwoDimArrays\obj\Debug\netcoreapp3.1\TwoDimArrays.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+A:\cSharpCourse\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.exe
+A:\cSharpCourse\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.deps.json
+A:\cSharpCourse\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.runtimeconfig.json
+A:\cSharpCourse\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.runtimeconfig.dev.json
+A:\cSharpCourse\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.dll
+A:\cSharpCourse\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.pdb
+A:\cSharpCourse\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.csprojAssemblyReference.cache
+A:\cSharpCourse\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.AssemblyInfoInputs.cache
+A:\cSharpCourse\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.AssemblyInfo.cs
+A:\cSharpCourse\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.dll
+A:\cSharpCourse\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.pdb
+A:\cSharpCourse\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.genruntimeconfig.cache
