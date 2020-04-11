@@ -1,0 +1,13 @@
+A:\cSharpCourse\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.exe
+A:\cSharpCourse\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.deps.json
+A:\cSharpCourse\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.json
+A:\cSharpCourse\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.dev.json
+A:\cSharpCourse\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.dll
+A:\cSharpCourse\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.pdb
+A:\cSharpCourse\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.csprojAssemblyReference.cache
+A:\cSharpCourse\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfoInputs.cache
+A:\cSharpCourse\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfo.cs
+A:\cSharpCourse\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.dll
+A:\cSharpCourse\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.pdb
+A:\cSharpCourse\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.genruntimeconfig.cache
