@@ -1,0 +1,13 @@
+A:\cSharpCourse\IfStatements\bin\Debug\netcoreapp3.1\IfStatements.exe
+A:\cSharpCourse\IfStatements\bin\Debug\netcoreapp3.1\IfStatements.deps.json
+A:\cSharpCourse\IfStatements\bin\Debug\netcoreapp3.1\IfStatements.runtimeconfig.json
+A:\cSharpCourse\IfStatements\bin\Debug\netcoreapp3.1\IfStatements.runtimeconfig.dev.json
+A:\cSharpCourse\IfStatements\bin\Debug\netcoreapp3.1\IfStatements.dll
+A:\cSharpCourse\IfStatements\bin\Debug\netcoreapp3.1\IfStatements.pdb
+A:\cSharpCourse\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.csprojAssemblyReference.cache
+A:\cSharpCourse\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.AssemblyInfoInputs.cache
+A:\cSharpCourse\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.AssemblyInfo.cs
+A:\cSharpCourse\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.dll
+A:\cSharpCourse\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.pdb
+A:\cSharpCourse\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.genruntimeconfig.cache

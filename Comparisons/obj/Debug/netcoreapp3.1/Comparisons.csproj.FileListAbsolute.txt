@@ -1,0 +1,13 @@
+A:\cSharpCourse\Comparisons\obj\Debug\netcoreapp3.1\Comparisons.csprojAssemblyReference.cache
+A:\cSharpCourse\Comparisons\obj\Debug\netcoreapp3.1\Comparisons.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\Comparisons\obj\Debug\netcoreapp3.1\Comparisons.AssemblyInfoInputs.cache
+A:\cSharpCourse\Comparisons\obj\Debug\netcoreapp3.1\Comparisons.AssemblyInfo.cs
+A:\cSharpCourse\Comparisons\bin\Debug\netcoreapp3.1\Comparisons.exe
+A:\cSharpCourse\Comparisons\bin\Debug\netcoreapp3.1\Comparisons.deps.json
+A:\cSharpCourse\Comparisons\bin\Debug\netcoreapp3.1\Comparisons.runtimeconfig.json
+A:\cSharpCourse\Comparisons\bin\Debug\netcoreapp3.1\Comparisons.runtimeconfig.dev.json
+A:\cSharpCourse\Comparisons\bin\Debug\netcoreapp3.1\Comparisons.dll
+A:\cSharpCourse\Comparisons\bin\Debug\netcoreapp3.1\Comparisons.pdb
+A:\cSharpCourse\Comparisons\obj\Debug\netcoreapp3.1\Comparisons.dll
+A:\cSharpCourse\Comparisons\obj\Debug\netcoreapp3.1\Comparisons.pdb
+A:\cSharpCourse\Comparisons\obj\Debug\netcoreapp3.1\Comparisons.genruntimeconfig.cache
