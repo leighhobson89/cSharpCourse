@@ -1,0 +1,13 @@
+A:\cSharpCourse\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.exe
+A:\cSharpCourse\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.deps.json
+A:\cSharpCourse\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.runtimeconfig.json
+A:\cSharpCourse\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.runtimeconfig.dev.json
+A:\cSharpCourse\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.dll
+A:\cSharpCourse\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.pdb
+A:\cSharpCourse\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.csprojAssemblyReference.cache
+A:\cSharpCourse\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.AssemblyInfoInputs.cache
+A:\cSharpCourse\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.AssemblyInfo.cs
+A:\cSharpCourse\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.dll
+A:\cSharpCourse\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.pdb
+A:\cSharpCourse\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.genruntimeconfig.cache

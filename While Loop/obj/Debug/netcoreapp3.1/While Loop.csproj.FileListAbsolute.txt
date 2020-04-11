@@ -1,0 +1,13 @@
+A:\cSharpCourse\While Loop\bin\Debug\netcoreapp3.1\While Loop.exe
+A:\cSharpCourse\While Loop\bin\Debug\netcoreapp3.1\While Loop.deps.json
+A:\cSharpCourse\While Loop\bin\Debug\netcoreapp3.1\While Loop.runtimeconfig.json
+A:\cSharpCourse\While Loop\bin\Debug\netcoreapp3.1\While Loop.runtimeconfig.dev.json
+A:\cSharpCourse\While Loop\bin\Debug\netcoreapp3.1\While Loop.dll
+A:\cSharpCourse\While Loop\bin\Debug\netcoreapp3.1\While Loop.pdb
+A:\cSharpCourse\While Loop\obj\Debug\netcoreapp3.1\While Loop.csprojAssemblyReference.cache
+A:\cSharpCourse\While Loop\obj\Debug\netcoreapp3.1\While Loop.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\While Loop\obj\Debug\netcoreapp3.1\While Loop.AssemblyInfoInputs.cache
+A:\cSharpCourse\While Loop\obj\Debug\netcoreapp3.1\While Loop.AssemblyInfo.cs
+A:\cSharpCourse\While Loop\obj\Debug\netcoreapp3.1\While Loop.dll
+A:\cSharpCourse\While Loop\obj\Debug\netcoreapp3.1\While Loop.pdb
+A:\cSharpCourse\While Loop\obj\Debug\netcoreapp3.1\While Loop.genruntimeconfig.cache
