@@ -1,0 +1,13 @@
+A:\cSharpCourse\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.csprojAssemblyReference.cache
+A:\cSharpCourse\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.AssemblyInfoInputs.cache
+A:\cSharpCourse\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.AssemblyInfo.cs
+A:\cSharpCourse\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.exe
+A:\cSharpCourse\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.deps.json
+A:\cSharpCourse\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.runtimeconfig.json
+A:\cSharpCourse\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.runtimeconfig.dev.json
+A:\cSharpCourse\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.dll
+A:\cSharpCourse\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.pdb
+A:\cSharpCourse\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.dll
+A:\cSharpCourse\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.pdb
+A:\cSharpCourse\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.genruntimeconfig.cache
