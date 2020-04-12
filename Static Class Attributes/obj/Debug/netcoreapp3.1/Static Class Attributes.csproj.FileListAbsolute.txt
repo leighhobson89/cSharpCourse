@@ -1,0 +1,13 @@
+A:\cSharpCourse\Static Class Attributes\obj\Debug\netcoreapp3.1\Static Class Attributes.csprojAssemblyReference.cache
+A:\cSharpCourse\Static Class Attributes\obj\Debug\netcoreapp3.1\Static Class Attributes.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\Static Class Attributes\obj\Debug\netcoreapp3.1\Static Class Attributes.AssemblyInfoInputs.cache
+A:\cSharpCourse\Static Class Attributes\obj\Debug\netcoreapp3.1\Static Class Attributes.AssemblyInfo.cs
+A:\cSharpCourse\Static Class Attributes\bin\Debug\netcoreapp3.1\Static Class Attributes.exe
+A:\cSharpCourse\Static Class Attributes\bin\Debug\netcoreapp3.1\Static Class Attributes.deps.json
+A:\cSharpCourse\Static Class Attributes\bin\Debug\netcoreapp3.1\Static Class Attributes.runtimeconfig.json
+A:\cSharpCourse\Static Class Attributes\bin\Debug\netcoreapp3.1\Static Class Attributes.runtimeconfig.dev.json
+A:\cSharpCourse\Static Class Attributes\bin\Debug\netcoreapp3.1\Static Class Attributes.dll
+A:\cSharpCourse\Static Class Attributes\bin\Debug\netcoreapp3.1\Static Class Attributes.pdb
+A:\cSharpCourse\Static Class Attributes\obj\Debug\netcoreapp3.1\Static Class Attributes.dll
+A:\cSharpCourse\Static Class Attributes\obj\Debug\netcoreapp3.1\Static Class Attributes.pdb
+A:\cSharpCourse\Static Class Attributes\obj\Debug\netcoreapp3.1\Static Class Attributes.genruntimeconfig.cache

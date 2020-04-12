@@ -1,0 +1,13 @@
+A:\cSharpCourse\StaticMethodsAndClasses\bin\Debug\netcoreapp3.1\StaticMethodsAndClasses.exe
+A:\cSharpCourse\StaticMethodsAndClasses\bin\Debug\netcoreapp3.1\StaticMethodsAndClasses.deps.json
+A:\cSharpCourse\StaticMethodsAndClasses\bin\Debug\netcoreapp3.1\StaticMethodsAndClasses.runtimeconfig.json
+A:\cSharpCourse\StaticMethodsAndClasses\bin\Debug\netcoreapp3.1\StaticMethodsAndClasses.runtimeconfig.dev.json
+A:\cSharpCourse\StaticMethodsAndClasses\bin\Debug\netcoreapp3.1\StaticMethodsAndClasses.dll
+A:\cSharpCourse\StaticMethodsAndClasses\bin\Debug\netcoreapp3.1\StaticMethodsAndClasses.pdb
+A:\cSharpCourse\StaticMethodsAndClasses\obj\Debug\netcoreapp3.1\StaticMethodsAndClasses.csprojAssemblyReference.cache
+A:\cSharpCourse\StaticMethodsAndClasses\obj\Debug\netcoreapp3.1\StaticMethodsAndClasses.csproj.CoreCompileInputs.cache
+A:\cSharpCourse\StaticMethodsAndClasses\obj\Debug\netcoreapp3.1\StaticMethodsAndClasses.AssemblyInfoInputs.cache
+A:\cSharpCourse\StaticMethodsAndClasses\obj\Debug\netcoreapp3.1\StaticMethodsAndClasses.AssemblyInfo.cs
+A:\cSharpCourse\StaticMethodsAndClasses\obj\Debug\netcoreapp3.1\StaticMethodsAndClasses.dll
+A:\cSharpCourse\StaticMethodsAndClasses\obj\Debug\netcoreapp3.1\StaticMethodsAndClasses.pdb
+A:\cSharpCourse\StaticMethodsAndClasses\obj\Debug\netcoreapp3.1\StaticMethodsAndClasses.genruntimeconfig.cache
